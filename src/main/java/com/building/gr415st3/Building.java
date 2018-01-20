@@ -1,4 +1,4 @@
-package com.JSCity.gr415st3;
+package com.building.gr415st3;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,10 +11,10 @@ import eu.printingin3d.javascad.models.*;
 import eu.printingin3d.javascad.tranzitions.Difference;
 import eu.printingin3d.javascad.tranzitions.Union;
 
-class LegoBrick extends Union {
+class Building extends Union {
 
 
-    LegoBrick() {super(getModels());}
+    Building() {super(getModels());}
 
 	private static List<Abstract3dModel> getModels() {
 		//полная модель
