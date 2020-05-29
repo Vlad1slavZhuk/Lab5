@@ -15,11 +15,11 @@
 
 ## Скриншоты из OpenSCAD:
 
-![5](../Lab5/image/5.png)
-![4](../Lab5/image/4.png)
-![3](../Lab5/image/3.png)
-![2](../Lab5/image/2.png)
-![1](../Lab5/image/1.png)
+![5](image/5.png)
+![4](image/4.png)
+![3](image/3.png)
+![2](image/2.png)
+![1](image/1.png)
 
 
 # Solid state design of machine parts 
@@ -39,11 +39,11 @@
 
 ## Screenshots from OpenSCAD:
 
-![5](../Lab5/image/5.png)
-![4](../Lab5/image/4.png)
-![3](../Lab5/image/3.png)
-![2](../Lab5/image/2.png)
-![1](../Lab5/image/1.png)
+![5](image/5.png)
+![4](image/4.png)
+![3](image/3.png)
+![2](image/2.png)
+![1](image/1.png)
 
 
 
