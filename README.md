@@ -1,4 +1,4 @@
-# Твердотельное проектирование деталей машин 
+# Модель архитектурного строения 
 
 ## **Цель/Задание:**
 
@@ -22,7 +22,7 @@
 ![1](image/1.png)
 
 
-# Solid state design of machine parts 
+# Architectural Model 
 
 ## **Objective / Task:**
 
